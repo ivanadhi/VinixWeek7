@@ -18,7 +18,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", Poppins;
   line-height: 1.7;
   color: var(--text-color);
   background-color: var(--background-color);
@@ -379,3 +379,4 @@ footer p {
     height: 24px;
   }
 }
+
